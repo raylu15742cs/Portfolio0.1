@@ -1,7 +1,7 @@
 import Home from './Component/Home';
 import Project from './Component/Project';
 import Resume from './Component/Resume';
-
+import "./app.css"
 function App() {
   return (
     <div className="App">
